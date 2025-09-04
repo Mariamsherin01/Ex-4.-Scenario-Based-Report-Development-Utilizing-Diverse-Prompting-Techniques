@@ -10,7 +10,7 @@ To evaluate how diverse AI prompting techniques can be applied to create an effe
 
 Customer support in retail.
 
-Example scenarios: product inquiry, return/refund policy, order tracking, troubleshooting.
+Example scenarios: product inquiry, return/refund policy, order tracking, troubleshooting. 
 
 2.Define Prompting Techniques:
 
